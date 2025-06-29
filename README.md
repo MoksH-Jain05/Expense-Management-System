@@ -55,7 +55,7 @@ project_expense_management/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/MoksH-Jain05/expense-tracker.git
 cd project_expense_management
 ```
 
